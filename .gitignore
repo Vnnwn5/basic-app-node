@@ -1,0 +1,8 @@
+# Ignora la carpeta node_modules
+/node_modules
+
+# Ignora -lock
+package-lock.json
+
+config.env
+.DS_Store
