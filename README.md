@@ -1,4 +1,4 @@
-# basic-app-node
+# basic-app-node-with-docker
 
 ## Prerequisites
 

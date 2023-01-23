@@ -4,5 +4,4 @@
 # Ignora -lock
 package-lock.json
 
-config.env
 .DS_Store
